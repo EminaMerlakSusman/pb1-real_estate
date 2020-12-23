@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dodaj nov oglas</title>
+        {% load crispy_forms_tags %}
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+</head>
+<body>
+<div class = "row"></div>
+<div class = "row">
+<div class="col-md-4"></div>
+
+<div class="col-md-4">
+
+<div id="form-div">
+<div class="row" id="top-row">
+
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+{{ form.non_field_errors }}
+<label for="add_listing">
+    <h5>Dodaj nov oglas:</h5>
+</label>
+    </div>
+    <div class="col-md-1"></div>
+</div>
+<form action="" method="POST" id="add_listing" class="submit-form">
+    {% csrf_token %}
+
+    <div class="form-row" id="title-row">
+    <div class="form-group col-md-1">
+
+    </div>
+
+    <div class="form-group col-md-10" id="title-field">
+    {{ form.title|as_crispy_field }}
+    </div>
+    <div class="form-group col-md-1">
+
+    </div>
+
+
+    </div>
+    <div class="form-row">
+    <div class="form-group col-md-1">
+
+    </div>
+
+    <div class="form-group col-md-5" id="size_field">
+    {{ form.size|as_crispy_field}}
+    </div>
+    <div class="form-group col-md-5" id="nu_field">
+    {{ form.nu_rooms|as_crispy_field}}
+    </div>
+    <div class="form-group col-md-1">
+
+    </div>
+    </div>
+    <div class="form-row">
+    <div class="form-group col-md-1">
+
+    </div>
+    <div class="form-group col-md-4" id="region_field">
+    {{ form.region_choice|as_crispy_field}}
+    </div>
+    <div class="form-group col-md-4" id="type_field">
+    {{ form.type_choice|as_crispy_field}}
+    </div>
+    <div class="form-group col-md-2" id="price_field">
+    {{ form.price|as_crispy_field }}
+    </div>
+    <div class="form-group col-md-1">
+
+    </div>
+    </div>
+    <div class="form-row">
+    <div class="form-group col-md-1">
+
+    </div>
+    <div class="form-group col-md-10" id="sale_field">
+    {{ form.sale_type_choice|as_crispy_field}}
+    </div>
+    <div class="form-group col-md-1">
+
+    </div>
+    </div>
+    <div class="form-row">
+    <div class="form-group col-md-1">
+
+    </div>
+    <div class="form-group col-md-10">
+        <input type="submit" id="submit-btn" class="btn btn-dark" value="Dodaj oglas">
+    </div>
+    <div class="form-group col-md-1">
+
+    </div>
+    </div>
+
+</form>
+</div>
+</div>
+
+<div class="col-md-4"></div>
+</div>
+<div class = "row">
+    <div class="col-md-4"></div>
+
+
+    <div class="success-message col-md-4">
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10"> {{ message }}</div>
+        <div class="col-md-1"></div>
+    </div>
+    </div>
+    <div class="col-md-4"></div>
+
+</div>
+
+</div>
+</body>
+</html>
+
+<style>
+#form-div {
+    margin-top:20%;
+}
+
+.success-message {
+    color:green;
+}
+
+</style>

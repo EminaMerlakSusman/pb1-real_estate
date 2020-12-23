@@ -1,0 +1,100 @@
+0;Poslovni prostor, 221 m2, Gorenjska, 2873€;221;Gorenjska;Poslovni prostor;2873;Oddaja
+1;Vikend, 76 m2, 2-sobni, Zasavje, 85956€;76;2;Zasavje;Vikend;85956;Prodaja
+2;Stanovanje, 77 m2, 3-sobno, Obalno-Kraška, 462€;77;3;Obalno-Kraška;Stanovanje;462;Oddaja
+3;Stanovanje, 58 m2, 2-sobno, Goriška, 406€;58;2;Goriška;Stanovanje;406;Oddaja
+4;Posest, 1210 m2, Gorenjska, 47190€;1210;Gorenjska;Posest;47190;Prodaja
+5;Hiša, 165 m2, 3-sobna, Jugovzhodna Slovenija, 825€;165;3;Jugovzhodna Slovenija;Hiša;825;Oddaja
+6;Posest, 1051 m2, Notranjsko-Kraška, 51499€;1051;Notranjsko-Kraška;Posest;51499;Prodaja
+7;Posest, 367 m2, Notranjsko-Kraška, 20185€;367;Notranjsko-Kraška;Posest;20185;Prodaja
+8;Posest, 661 m2, Gorenjska, 37677€;661;Gorenjska;Posest;37677;Prodaja
+9;Posest, 1046 m2, Spodnjeposavska, 54392€;1046;Spodnjeposavska;Posest;54392;Prodaja
+10;Posest, 907 m2, Goriška, 51699€;907;Goriška;Posest;51699;Prodaja
+11;Poslovni prostor, 130 m2, Osrednjeslovenska, 2470€;130;Osrednjeslovenska;Poslovni prostor;2470;Oddaja
+12;Posest, 1059 m2, Koroška, 47655€;1059;Koroška;Posest;47655;Prodaja
+13;Stanovanje, 37 m2, 1-sobno, Notranjsko-Kraška, 370€;37;1;Notranjsko-Kraška;Stanovanje;370;Oddaja
+14;Poslovni prostor, 335 m2, Pomurska, 5360€;335;Pomurska;Poslovni prostor;5360;Oddaja
+15;Poslovni prostor, 304 m2, Jugovzhodna Slovenija, 6080€;304;Jugovzhodna Slovenija;Poslovni prostor;6080;Oddaja
+16;Hiša, 195 m2, 4-sobna, Jugovzhodna Slovenija, 1950€;195;4;Jugovzhodna Slovenija;Hiša;1950;Oddaja
+17;Vikend, 52 m2, 3-sobni, Obalno-Kraška, 68276€;52;3;Obalno-Kraška;Vikend;68276;Prodaja
+18;Posest, 1281 m2, Notranjsko-Kraška, 49959€;1281;Notranjsko-Kraška;Posest;49959;Prodaja
+19;Hiša, 165 m2, 5-sobna, Spodnjeposavska, 213510€;165;5;Spodnjeposavska;Hiša;213510;Prodaja
+20;Stanovanje, 108 m2, 1-sobno, Obalno-Kraška, 237492€;108;1;Obalno-Kraška;Stanovanje;237492;Prodaja
+21;Hiša, 125 m2, 2-sobna, Jugovzhodna Slovenija, 1250€;125;2;Jugovzhodna Slovenija;Hiša;1250;Oddaja
+22;Hiša, 125 m2, 4-sobna, Pomurska, 1250€;125;4;Pomurska;Hiša;1250;Oddaja
+23;Posest, 793 m2, Osrednjeslovenska, 37271€;793;Osrednjeslovenska;Posest;37271;Prodaja
+24;Posest, 1308 m2, Podravska, 52320€;1308;Podravska;Posest;52320;Prodaja
+25;Stanovanje, 41 m2, 2-sobno, Osrednjeslovenska, 287€;41;2;Osrednjeslovenska;Stanovanje;287;Oddaja
+26;Poslovni prostor, 308 m2, Zasavje, 4928€;308;Zasavje;Poslovni prostor;4928;Oddaja
+27;Posest, 1274 m2, Zasavje, 76440€;1274;Zasavje;Posest;76440;Prodaja
+28;Vikend, 57 m2, 1-sobni, Gorenjska, 110808€;57;1;Gorenjska;Vikend;110808;Prodaja
+29;Poslovni prostor, 372 m2, Gorenjska, 5208€;372;Gorenjska;Poslovni prostor;5208;Oddaja
+30;Posest, 1212 m2, Pomurska, 49692€;1212;Pomurska;Posest;49692;Prodaja
+31;Posest, 1168 m2, Zasavje, 45552€;1168;Zasavje;Posest;45552;Prodaja
+32;Stanovanje, 95 m2, 1-sobno, Jugovzhodna Slovenija, 760€;95;1;Jugovzhodna Slovenija;Stanovanje;760;Oddaja
+33;Poslovni prostor, 92 m2, Koroška, 1196€;92;Koroška;Poslovni prostor;1196;Oddaja
+34;Stanovanje, 117 m2, 1-sobno, Savinjska, 936€;117;1;Savinjska;Stanovanje;936;Oddaja
+35;Vikend, 40 m2, 1-sobni, Podravska, 69920€;40;1;Podravska;Vikend;69920;Prodaja
+36;Poslovni prostor, 95 m2, Notranjsko-Kraška, 1140€;95;Notranjsko-Kraška;Poslovni prostor;1140;Oddaja
+37;Poslovni prostor, 337 m2, Goriška, 5055€;337;Goriška;Poslovni prostor;5055;Oddaja
+38;Stanovanje, 88 m2, 4-sobno, Koroška, 528€;88;4;Koroška;Stanovanje;528;Oddaja
+39;Hiša, 207 m2, 5-sobna, Savinjska, 2070€;207;5;Savinjska;Hiša;2070;Oddaja
+40;Stanovanje, 78 m2, 3-sobno, Spodnjeposavska, 106392€;78;3;Spodnjeposavska;Stanovanje;106392;Prodaja
+41;Vikend, 105 m2, 1-sobni, Spodnjeposavska, 141225€;105;1;Spodnjeposavska;Vikend;141225;Prodaja
+42;Posest, 1443 m2, Obalno-Kraška, 76479€;1443;Obalno-Kraška;Posest;76479;Prodaja
+43;Hiša, 242 m2, 3-sobna, Jugovzhodna Slovenija, 1452€;242;3;Jugovzhodna Slovenija;Hiša;1452;Oddaja
+44;Posest, 335 m2, Jugovzhodna Slovenija, 14405€;335;Jugovzhodna Slovenija;Posest;14405;Prodaja
+45;Posest, 500 m2, Pomurska, 25500€;500;Pomurska;Posest;25500;Prodaja
+46;Stanovanje, 101 m2, 1-sobno, Gorenjska, 808€;101;1;Gorenjska;Stanovanje;808;Oddaja
+47;Vikend, 50 m2, 2-sobni, Pomurska, 89750€;50;2;Pomurska;Vikend;89750;Prodaja
+48;Poslovni prostor, 109 m2, Pomurska, 1962€;109;Pomurska;Poslovni prostor;1962;Oddaja
+49;Stanovanje, 21 m2, 1-sobno, Notranjsko-Kraška, 189€;21;1;Notranjsko-Kraška;Stanovanje;189;Oddaja
+50;Stanovanje, 47 m2, 3-sobno, Spodnjeposavska, 112753€;47;3;Spodnjeposavska;Stanovanje;112753;Prodaja
+51;Vikend, 50 m2, 3-sobni, Podravska, 39350€;50;3;Podravska;Vikend;39350;Prodaja
+52;Vikend, 99 m2, 1-sobni, Notranjsko-Kraška, 80586€;99;1;Notranjsko-Kraška;Vikend;80586;Prodaja
+53;Stanovanje, 64 m2, 2-sobno, Spodnjeposavska, 143104€;64;2;Spodnjeposavska;Stanovanje;143104;Prodaja
+54;Posest, 712 m2, Osrednjeslovenska, 24208€;712;Osrednjeslovenska;Posest;24208;Prodaja
+55;Hiša, 225 m2, 5-sobna, Obalno-Kraška, 1350€;225;5;Obalno-Kraška;Hiša;1350;Oddaja
+56;Posest, 1065 m2, Pomurska, 44730€;1065;Pomurska;Posest;44730;Prodaja
+57;Posest, 300 m2, Obalno-Kraška, 14100€;300;Obalno-Kraška;Posest;14100;Prodaja
+58;Vikend, 87 m2, 1-sobni, Koroška, 104052€;87;1;Koroška;Vikend;104052;Prodaja
+59;Hiša, 228 m2, 4-sobna, Zasavje, 393300€;228;4;Zasavje;Hiša;393300;Prodaja
+60;Poslovni prostor, 35 m2, Pomurska, 19425€;35;Pomurska;Poslovni prostor;19425;Prodaja
+61;Poslovni prostor, 151 m2, Jugovzhodna Slovenija, 99811€;151;Jugovzhodna Slovenija;Poslovni prostor;99811;Prodaja
+62;Vikend, 52 m2, 3-sobni, Goriška, 59540€;52;3;Goriška;Vikend;59540;Prodaja
+63;Posest, 805 m2, Spodnjeposavska, 32200€;805;Spodnjeposavska;Posest;32200;Prodaja
+64;Hiša, 139 m2, 5-sobna, Koroška, 1251€;139;5;Koroška;Hiša;1251;Oddaja
+65;Vikend, 41 m2, 1-sobni, Pomurska, 58384€;41;1;Pomurska;Vikend;58384;Prodaja
+66;Stanovanje, 80 m2, 3-sobno, Savinjska, 400€;80;3;Savinjska;Stanovanje;400;Oddaja
+67;Vikend, 74 m2, 2-sobni, Spodnjeposavska, 93166€;74;2;Spodnjeposavska;Vikend;93166;Prodaja
+68;Hiša, 195 m2, 2-sobna, Spodnjeposavska, 1755€;195;2;Spodnjeposavska;Hiša;1755;Oddaja
+69;Posest, 1195 m2, Gorenjska, 40630€;1195;Gorenjska;Posest;40630;Prodaja
+70;Stanovanje, 53 m2, 4-sobno, Savinjska, 318€;53;4;Savinjska;Stanovanje;318;Oddaja
+71;Poslovni prostor, 482 m2, Notranjsko-Kraška, 9158€;482;Notranjsko-Kraška;Poslovni prostor;9158;Oddaja
+72;Vikend, 54 m2, 2-sobni, Spodnjeposavska, 71118€;54;2;Spodnjeposavska;Vikend;71118;Prodaja
+73;Hiša, 92 m2, 3-sobna, Zasavje, 98164€;92;3;Zasavje;Hiša;98164;Prodaja
+74;Poslovni prostor, 348 m2, Podravska, 180264€;348;Podravska;Poslovni prostor;180264;Prodaja
+75;Stanovanje, 81 m2, 2-sobno, Spodnjeposavska, 405€;81;2;Spodnjeposavska;Stanovanje;405;Oddaja
+76;Stanovanje, 108 m2, 2-sobno, Podravska, 212220€;108;2;Podravska;Stanovanje;212220;Prodaja
+77;Posest, 874 m2, Jugovzhodna Slovenija, 40204€;874;Jugovzhodna Slovenija;Posest;40204;Prodaja
+78;Vikend, 53 m2, 1-sobni, Obalno-Kraška, 59625€;53;1;Obalno-Kraška;Vikend;59625;Prodaja
+79;Vikend, 42 m2, 1-sobni, Goriška, 51828€;42;1;Goriška;Vikend;51828;Prodaja
+80;Hiša, 166 m2, 5-sobna, Obalno-Kraška, 830€;166;5;Obalno-Kraška;Hiša;830;Oddaja
+81;Stanovanje, 33 m2, 1-sobno, Savinjska, 59829€;33;1;Savinjska;Stanovanje;59829;Prodaja
+82;Vikend, 76 m2, 3-sobni, Jugovzhodna Slovenija, 107996€;76;3;Jugovzhodna Slovenija;Vikend;107996;Prodaja
+83;Vikend, 62 m2, 1-sobni, Zasavje, 113026€;62;1;Zasavje;Vikend;113026;Prodaja
+84;Stanovanje, 86 m2, 3-sobno, Osrednjeslovenska, 860€;86;3;Osrednjeslovenska;Stanovanje;860;Oddaja
+85;Stanovanje, 100 m2, 2-sobno, Spodnjeposavska, 600€;100;2;Spodnjeposavska;Stanovanje;600;Oddaja
+86;Vikend, 113 m2, 3-sobni, Obalno-Kraška, 209276€;113;3;Obalno-Kraška;Vikend;209276;Prodaja
+87;Stanovanje, 84 m2, 2-sobno, Notranjsko-Kraška, 181356€;84;2;Notranjsko-Kraška;Stanovanje;181356;Prodaja
+88;Hiša, 235 m2, 2-sobna, Pomurska, 1410€;235;2;Pomurska;Hiša;1410;Oddaja
+89;Hiša, 141 m2, 4-sobna, Gorenjska, 193875€;141;4;Gorenjska;Hiša;193875;Prodaja
+90;Stanovanje, 46 m2, 2-sobno, Osrednjeslovenska, 276€;46;2;Osrednjeslovenska;Stanovanje;276;Oddaja
+91;Poslovni prostor, 333 m2, Jugovzhodna Slovenija, 174825€;333;Jugovzhodna Slovenija;Poslovni prostor;174825;Prodaja
+92;Poslovni prostor, 80 m2, Osrednjeslovenska, 1360€;80;Osrednjeslovenska;Poslovni prostor;1360;Oddaja
+93;Stanovanje, 31 m2, 2-sobno, Jugovzhodna Slovenija, 310€;31;2;Jugovzhodna Slovenija;Stanovanje;310;Oddaja
+94;Vikend, 81 m2, 3-sobni, Podravska, 157626€;81;3;Podravska;Vikend;157626;Prodaja
+95;Posest, 1131 m2, Spodnjeposavska, 47502€;1131;Spodnjeposavska;Posest;47502;Prodaja
+96;Hiša, 187 m2, 2-sobna, Jugovzhodna Slovenija, 336600€;187;2;Jugovzhodna Slovenija;Hiša;336600;Prodaja
+97;Stanovanje, 20 m2, 3-sobno, Savinjska, 32660€;20;3;Savinjska;Stanovanje;32660;Prodaja
+98;Poslovni prostor, 242 m2, Koroška, 138908€;242;Koroška;Poslovni prostor;138908;Prodaja
+99;Hiša, 247 m2, 5-sobna, Koroška, 463866€;247;5;Koroška;Hiša;463866;Prodaja
